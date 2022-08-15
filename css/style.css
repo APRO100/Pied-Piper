@@ -160,7 +160,7 @@ h6 {
 }
 
 .hero {
-    background: url(/img/image-1.png);
+    background: url(../img/image-1.png);
     background-size: cover;
     background-position: center center;
     padding-top: 128px;
